@@ -1,1 +1,1 @@
-![Kirtan Javiya]![Kirtan Javiya](name-banner.svg)
+![Kirtan Javiya](name-banner.svg)
